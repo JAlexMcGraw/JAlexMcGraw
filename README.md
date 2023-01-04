@@ -1,4 +1,4 @@
-## Hello World! 👋
+## Hello World! 👋 (Currently out of date, and working on updating!)
 
  I'm Alex. I'm a current MS in Business Analytics student at the University of Texas at Austin (hook 'em 🤘). Right now I'm taking it day by day, getting through these crazy COVID-19 times, while also studying to become a data scientist. Being able to tell a story through data while also identifying hidden patterns and trends is the reason I joined this MS program, and what I hope part of my career will end up being. 
 
