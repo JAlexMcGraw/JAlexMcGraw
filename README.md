@@ -1,4 +1,4 @@
-## Hello World! 👋 (Currently out of date, and working on updating!)
+## Hello World! 👋
 
  I'm Alex. I'm currently a Senior Decision Scientist at CVS Healthcare, but I am developing web dev and backend skills (TypeScript/React frontend and Python backend) to ideally find myself in a full stack, backend, product, or ML/AI  engineer role. I have over 3 years of professional Python experience focused in the DS, DE, GenAI, and computer vision space, but I want to get into building products.  
 
