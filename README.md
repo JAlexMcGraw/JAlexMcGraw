@@ -1,19 +1,10 @@
 ## Hello World! 👋 (Currently out of date, and working on updating!)
 
- I'm Alex. I'm a current MS in Business Analytics student at the University of Texas at Austin (hook 'em 🤘). Right now I'm taking it day by day, getting through these crazy COVID-19 times, while also studying to become a data scientist. Being able to tell a story through data while also identifying hidden patterns and trends is the reason I joined this MS program, and what I hope part of my career will end up being. 
+ I'm Alex. I'm currently a Senior Decision Scientist at CVS Healthcare, but I am developing web dev and backend skills (TypeScript/React frontend and Python backend) to ideally find myself in a full stack, backend, product, or ML/AI  engineer role. I have over 3 years of professional Python experience focused in the DS, DE, GenAI, and computer vision space, but I want to get into building products.  
 
 ## My Repositories 📦
 
- These repositories have code from when I first started on my coding journey, and code from my most recent projects. I am proud of the progress that I have made, especially through this program, but as a disclaimer, my older scripts are not representative of where I am at now. 
- 
-## My Interests 💬
-
- While I'm not working on school work or projects, you can find me
- 
- * Lifting weights 🏋️‍
- * Playing sand volleyball 🏐 
- * Exploring Austin (safely with Covid restrictions) 🌇
- * Reading either non-fiction or a sci-fi series 📚
+I have a bunch of small repos and a few contributions to open-source, but I am currently working on my cover letter generator app. This is taking a GenAI backend I previously built with Python and FastAPI, which takes an uploaded PDF resume, a link to a job post, and an OpenAI api key to generate a custom cover letter. I'm currently learning and building the front end with TypeScript and React.  
 
 ## Reach out! 📫
 
